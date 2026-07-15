@@ -1,7 +1,7 @@
 
   
 
-### <div align="center">I'm MyoKyawThu, Final Yr student 🚀</div>  
+### <div align="center">I'm MyoKyawThu, Fourth Yr student 🚀</div>  
   
 
 - 🔭 I’m currently Studies on [UCSMTLA](https://ucsmtla.edu.mm/)  
