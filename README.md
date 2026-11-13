@@ -85,23 +85,22 @@
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atliol&amp;show_icons=true&amp;theme=dark" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=Atliol&amp;style=flat-square&amp;color=00e676" alt="Profile Views" />
 </div>
 
-
-<div align="center">
-  <img src="https://github-profile-3d-contrib.s3.ap-northeast-1.amazonaws.com/Atliol/profile-contribution-summary.svg" alt="3D Contribution" />
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atliol&amp;layout=compact&amp;theme=dark&amp;hide_border=true" alt="Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Atliol&amp;theme=dark&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <a href="https://github.com/Atliol" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+</div>
 
 <br/>  
 
