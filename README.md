@@ -1,7 +1,7 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="./Assets/profile-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./Assets/profile-dark.svg">
-  <img src="./Assets/profile-light.svg" width="100%" alt="Myo Kyaw Thu: Full-Stack.">
+  <source media="(max-width: 600px)" srcset="Assets/profile-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="Assets/profile-dark.svg">
+  <img src="Assets/profile-light.svg" width="100%" alt="Myo Kyaw Thu: Full-Stack.">
 </picture>
 
 
