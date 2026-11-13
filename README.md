@@ -88,6 +88,21 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Atliol&amp;show_icons=true&amp;theme=dark" alt="GitHub Stats" />
 </div>
 
+
+<div align="center">
+  <img src="https://github-profile-3d-contrib.s3.ap-northeast-1.amazonaws.com/Atliol/profile-contribution-summary.svg" alt="3D Contribution" />
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atliol&amp;layout=compact&amp;theme=dark&amp;hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Atliol&amp;theme=dark&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" />
+</div>
+
+
 <br/>  
 
 
