@@ -1,11 +1,13 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="Assets/profile-mobile.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="Assets/profile-dark.svg">
-  <img src="Assets/profile-light.svg" width="100%" alt="Myo Kyaw Thu: Full-Stack.">
-</picture>
-
-
-
+<p align="center">
+  <!-- Desktop Version -->
+  <picture>
+    <source media="(prefers-color-scheme: dark) and (min-width: 600px)" srcset="Assets/profile-dark.svg">
+    <source media="(prefers-color-scheme: light) and (min-width: 600px)" srcset="Assets/profile-light.svg">
+    <!-- Mobile Version -->
+    <source media="(prefers-color-scheme: dark)" srcset="Assets/profile-mobile.svg">
+    <img src="Assets/profile-dark.svg" alt="Myo Kyaw Thu Profile">
+  </picture>
+</p>
 
 
 ### <div align="center">I'm MyoKyawThu, Final Yr student 🚀</div>  
