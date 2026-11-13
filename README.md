@@ -10,23 +10,6 @@
 </picture>
 
 
-### <div align="center">I'm MyoKyawThu, Final Yr student 🚀</div>  
-  
-
-- 🔭 I’m currently Studies on [UCSMTLA](https://ucsmtla.edu.mm/)  
-  
-
-- 🌱 I’m currently learning Python ,Machine Learning and API  
-  
-
-- ❓ Ask me about anything related to full stack web development and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
