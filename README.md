@@ -1,6 +1,8 @@
 <div align="center">
 
-<div style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 16px; padding: 25px; text-align: left; width: 100%; box-sizing: border-box;">
+<table width="100%" style="border: 1px solid #30363d; border-radius: 16px; border-collapse: separate; border-spacing: 0; overflow: hidden;">
+<tr>
+<td align="left" style="background-color: #0d1117; padding: 25px;">
 
 <p align="right"><code style="background-color: #161b22; padding: 4px 8px; border-radius: 6px; border: 1px solid #30363d; color: #c9d1d9;">C# / .NET</code></p>
 <p><code style="background-color: #161b22; padding: 4px 8px; border-radius: 6px; border: 1px solid #30363d; color: #c9d1d9;">Profile.cs</code></p>
@@ -18,9 +20,11 @@
 
 <p style="color: #8b949e; font-size: 13px;"><sub>Meiktila, Myanmar · Software development</sub></p>
 
-</div>
+<br>
+</td>
+</tr>
+</table>
 
-</div>
 </div>
 ### <div align="center">I'm MyoKyawThu, Final Yr student 🚀</div>  
   
