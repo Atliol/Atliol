@@ -1,24 +1,24 @@
 <div align="center">
 
-<table width="100%">
+<table width="100%" style="border-radius: 12px; border: 1px solid #30363d; overflow: hidden;">
 <tr>
-<td align="left">
+<td align="left" style="background-color: #0d1117; padding: 20px;">
 
-<p align="right"><b>C# / .NET</b></p>
-<p><code>Profile.cs</code></p>
+<p align="right"><code style="background-color: #161b22; padding: 4px 8px; border-radius: 6px; border: 1px solid #30363d;">C# / .NET</code></p>
+<p><code style="background-color: #161b22; padding: 4px 8px; border-radius: 6px; border: 1px solid #30363d;">Profile.cs</code></p>
 
 <hr style="border: 0.5px solid #30363d;">
 
 <br>
 
-<p><code>// We live. We code. We yoke.</code></p>
-<h1>Sann Lynn Htun</h1>
-<p><b>Senior Software Engineer</b></p>
-<p style="color: #00e676;">Team Lead · Open-source Developer</p>
+<p><code style="background-color: #161b22; padding: 4px 8px; border-radius: 6px; border: 1px solid #30363d;">// We live. We code. We yoke.</code></p>
+<h1 style="color: #c9dd25;">Myo Kyaw Thu</h1>
+<p><b>Final Year Computer Science Student</b></p>
+<p style="color: #00e676;">Full-Stack Developer · Mobile & Web Solutions</p>
 
-<p>Helping beginners and junior developers build skills for senior roles.</p>
+<p>Studying at UCSMTLA · Passionate about building impactful software.</p>
 
-<p><sub>Yangon, Myanmar · Software development since 2015</sub></p>
+<p><sub>Meiktila, Myanmar · Software development</sub></p>
 
 <br>
 </td>
@@ -26,8 +26,6 @@
 </table>
 
 </div>
-  
-
 ### <div align="center">I'm MyoKyawThu, Final Yr student 🚀</div>  
   
 
