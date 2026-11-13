@@ -1,13 +1,13 @@
-<p align="center">
-  <!-- Desktop Version -->
-  <picture>
-    <source media="(prefers-color-scheme: dark) and (min-width: 600px)" srcset="Assets/profile-dark.svg">
-    <source media="(prefers-color-scheme: light) and (min-width: 600px)" srcset="Assets/profile-light.svg">
-    <!-- Mobile Version -->
-    <source media="(prefers-color-scheme: dark)" srcset="Assets/profile-mobile.svg">
-    <img src="Assets/profile-dark.svg" alt="Myo Kyaw Thu Profile">
-  </picture>
-</p>
+<picture>
+  <!-- Desktop Dark -->
+  <source media="(prefers-color-scheme: dark) and (min-width: 600px)" srcset="https://raw.githubusercontent.com/Atliol/Atliol/main/Assets/profile-dark.svg">
+  <!-- Desktop Light -->
+  <source media="(prefers-color-scheme: light) and (min-width: 600px)" srcset="https://raw.githubusercontent.com/Atliol/Atliol/main/Assets/profile-light.svg">
+  <!-- Mobile Dark -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atliol/Atliol/main/Assets/profile-mobile.svg">
+  <!-- Fallback Image -->
+  <img width="100%" src="https://raw.githubusercontent.com/Atliol/Atliol/main/Assets/profile-dark.svg" alt="Myo Kyaw Thu Profile">
+</picture>
 
 
 ### <div align="center">I'm MyoKyawThu, Final Yr student 🚀</div>  
