@@ -117,6 +117,8 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <div align="center"></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Atliol/Atliol/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Atliol/Atliol/output/github-snake.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/Atliol/Atliol/output/github-snake.svg" alt="GitHub contributions snake animation">
+</picture>
