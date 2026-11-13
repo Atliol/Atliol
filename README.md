@@ -1,31 +1,13 @@
-<div align="center">
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile-mobile.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-dark.svg">
+  <img src="assets/profile-light.svg" width="100%" alt="Myo Kyaw Thu: Full-Stack.">
+</picture>
 
-<table width="100%" style="border: 1px solid #30363d; border-radius: 16px; border-collapse: separate; border-spacing: 0; overflow: hidden;">
-<tr>
-<td align="left" style="background-color: #0d1117; padding: 25px;">
 
-<p align="right"><code style="background-color: #161b22; padding: 4px 8px; border-radius: 6px; border: 1px solid #30363d; color: #c9d1d9;">C# / .NET</code></p>
-<p><code style="background-color: #161b22; padding: 4px 8px; border-radius: 6px; border: 1px solid #30363d; color: #c9d1d9;">Profile.cs</code></p>
 
-<hr style="border: 0.5px solid #30363d; margin: 15px 0;">
 
-<br>
 
-<p><code style="background-color: #161b22; padding: 4px 8px; border-radius: 6px; border: 1px solid #30363d; color: #c9d1d9;">// We live. We code. We yoke.</code></p>
-<h1 style="color: #c9dd25; margin: 10px 0;">Myo Kyaw Thu</h1>
-<p><b>Final Year Computer Science Student</b></p>
-<p style="color: #00e676;">Full-Stack Developer · Mobile & Web Solutions</p>
-
-<p>Studying at UCSMTLA · Passionate about building impactful software.</p>
-
-<p style="color: #8b949e; font-size: 13px;"><sub>Meiktila, Myanmar · Software development</sub></p>
-
-<br>
-</td>
-</tr>
-</table>
-
-</div>
 ### <div align="center">I'm MyoKyawThu, Final Yr student 🚀</div>  
   
 
