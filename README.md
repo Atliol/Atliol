@@ -1,4 +1,31 @@
+<div align="center">
 
+<table width="100%">
+<tr>
+<td align="left">
+
+<p align="right"><b>C# / .NET</b></p>
+<p><code>Profile.cs</code></p>
+
+<hr style="border: 0.5px solid #30363d;">
+
+<br>
+
+<p><code>// We live. We code. We yoke.</code></p>
+<h1>Sann Lynn Htun</h1>
+<p><b>Senior Software Engineer</b></p>
+<p style="color: #00e676;">Team Lead · Open-source Developer</p>
+
+<p>Helping beginners and junior developers build skills for senior roles.</p>
+
+<p><sub>Yangon, Myanmar · Software development since 2015</sub></p>
+
+<br>
+</td>
+</tr>
+</table>
+
+</div>
   
 
 ### <div align="center">I'm MyoKyawThu, Final Yr student 🚀</div>  
